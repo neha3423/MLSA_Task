@@ -31,11 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-    "User experience",
+  "User experience",
   "Machine Learning",
   "Web development",
   "Mobile app development",
-  "database management",
+  "Database management",
+  "Data science",
   "Mobile user interfaces",
   "Graphic design",
 ];
